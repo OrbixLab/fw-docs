@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['tablero_0',['Comandos entre la apliacion y el tablero.',['../md_lib_2_sync_board_2src_2_plugins_2_app_comunication_2src_2_commands.html',1,'']]],
-  ['tagscanner_1',['TagScanner',['../class_tag_scanner.html',1,'']]],
-  ['test_2',['Test',['../class_test.html',1,'']]],
-  ['tile_5fpostion_5ft_3',['tile_postion_t',['../structtile__postion__t.html',1,'']]]
+  ['tablero_0',['Comandos entre la apliacion y el tablero.',['../md_lib_2SyncBoard_2src_2Plugins_2AppComunication_2src_2Commands.html',1,'']]],
+  ['tagscanner_1',['TagScanner',['../classTagScanner.html',1,'']]],
+  ['tile_5fpostion_5ft_2',['tile_postion_t',['../structtile__postion__t.html',1,'']]]
 ];

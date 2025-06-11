@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['nodes_0',['NODES',['../C:/Users/Urano/Documents/GitHub/Orbix/lib/SyncBoard/src/Nodes/Readme.md#autotoc_md2',1,'']]]
+  ['y_20el_20tablero_0',['Comandos entre la apliacion y el tablero.',['../md_lib_2SyncBoard_2src_2Plugins_2AppComunication_2src_2Commands.html',1,'']]]
 ];

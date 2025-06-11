@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['printhex_0',['PrintHex',['../class_adafruit___p_n532.html#aacbd3b2a52c7f9425ea2df8f836daf84',1,'Adafruit_PN532']]],
-  ['printhexchar_1',['PrintHexChar',['../class_adafruit___p_n532.html#a442fb92e520bbc10196259d41e10a121',1,'Adafruit_PN532']]]
+  ['on_5fpiece_5fdetection_0',['on_piece_detection',['../classNODE_1_1NPieceNode.html#ab88d24c335ceba4a3bdc45b6fbbf7a41',1,'NODE::NPieceNode']]],
+  ['oncall_1',['onCall',['../classBatteryManagment.html#a8e7f5435a250399f493dea2b3bb4a5b8',1,'BatteryManagment']]],
+  ['onserial_2',['onSerial',['../classBatteryManagment.html#aad154d774d2e713d7af1059eda4e8dc1',1,'BatteryManagment']]]
 ];

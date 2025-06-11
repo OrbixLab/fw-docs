@@ -9,5 +9,5 @@ var dir_c6588dd9bc437605527dc926f21fd05b =
     [ "Plugins", "dir_61349a0b0b6487bf92a5f7dfec56cce4.html", "dir_61349a0b0b6487bf92a5f7dfec56cce4" ],
     [ "ThirdParty", "dir_6a51cd3e431f400d1439e7d1e3cb631d.html", "dir_6a51cd3e431f400d1439e7d1e3cb631d" ],
     [ "Utils", "dir_8520421409b0aa38d5266b163cc96a05.html", "dir_8520421409b0aa38d5266b163cc96a05" ],
-    [ "SyncBoard.h", "_sync_board_8h_source.html", null ]
+    [ "SyncBoard.h", "SyncBoard_8h_source.html", null ]
 ];

@@ -7,6 +7,6 @@ var dir_84112c92a15f30eea69c35319880c6dc =
     [ "PieceNode", "dir_ad70dfc981577853d4b427bac9e8d999.html", "dir_ad70dfc981577853d4b427bac9e8d999" ],
     [ "PlayerNode", "dir_029f705570928e09aeccaeeb5846808f.html", "dir_029f705570928e09aeccaeeb5846808f" ],
     [ "ScreenNode", "dir_ca4b038f02263c5747c42f407c97b0d5.html", "dir_ca4b038f02263c5747c42f407c97b0d5" ],
-    [ "Game_events.h", "_game__events_8h_source.html", null ],
-    [ "Node.h", "_node_8h_source.html", null ]
+    [ "Game_events.h", "Game__events_8h_source.html", null ],
+    [ "Node.h", "Node_8h_source.html", null ]
 ];

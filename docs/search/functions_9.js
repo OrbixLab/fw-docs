@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['samconfig_0',['SAMConfig',['../class_adafruit___p_n532.html#a2b74034bdea391edc7ee8d77815f5155',1,'Adafruit_PN532']]],
-  ['sendcommandcheckack_1',['sendCommandCheckAck',['../class_adafruit___p_n532.html#ad7ac92e9e162a1b7c30ad5c5011bb5af',1,'Adafruit_PN532']]],
-  ['setpassiveactivationretries_2',['setPassiveActivationRetries',['../class_adafruit___p_n532.html#acd74386d666bd9ed5aca514892a92729',1,'Adafruit_PN532']]],
-  ['setup_3',['Setup',['../class_battery_managment.html#aacb4caf65417a6ff9a1643116bff212e',1,'BatteryManagment']]],
-  ['startpassivetargetiddetection_4',['startPassiveTargetIDDetection',['../class_adafruit___p_n532.html#abc2197d7be4f5ef9c2f61887e8c661ed',1,'Adafruit_PN532']]]
+  ['readdetectedpassivetargetid_0',['readDetectedPassiveTargetID',['../classAdafruit__PN532.html#aad3489ad92ff24727ee0440b003e5dd4',1,'Adafruit_PN532']]],
+  ['readpassivetargetid_1',['readPassiveTargetID',['../classAdafruit__PN532.html#a656bd0d65179203b4a2a6dbc4f283b9b',1,'Adafruit_PN532']]],
+  ['reset_2',['reset',['../classAdafruit__PN532.html#a113b1f9d15c805491dc661cb80c63c46',1,'Adafruit_PN532']]],
+  ['run_3',['Run',['../classBatteryManagment.html#ae76a439d3737e5c5c64b1d802e326c17',1,'BatteryManagment']]]
 ];

@@ -25,9 +25,13 @@
 var NAVTREE =
 [
   [ "ORBIX FW", "index.html", [
-    [ "HardwareSetup", "md_lib_2_sync_board_2src_2_hardware_2_hardware_setup.html", null ],
-    [ "Config", "md_lib_2_sync_board_2src_2_hardware_2_s_c_r_e_e_n_2_config.html", null ],
-    [ "Comandos entre la apliacion y el tablero.", "md_lib_2_sync_board_2src_2_plugins_2_app_comunication_2src_2_commands.html", null ],
+    [ "Funcionamiento de SyncBoard.", "md_lib_2SyncBoard_2src_2Core_2README.html", null ],
+    [ "HardwareSetup", "md_lib_2SyncBoard_2src_2Hardware_2HardwareSetup.html", null ],
+    [ "Config", "md_lib_2SyncBoard_2src_2Hardware_2SCREEN_2Config.html", null ],
+    [ "Readme", "md_lib_2SyncBoard_2src_2Nodes_2Controller_2Readme.html", null ],
+    [ "NODES", "md_lib_2SyncBoard_2src_2Nodes_2Readme.html", null ],
+    [ "Comandos entre la apliacion y el tablero.", "md_lib_2SyncBoard_2src_2Plugins_2AppComunication_2src_2Commands.html", null ],
+    [ "Readme", "md_lib_2SyncBoard_2src_2Plugins_2Screen_2src_2library_01setups_2Readme.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -41,6 +45,7 @@ var NAVTREE =
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
+        [ "Functions", "globals_func.html", null ],
         [ "Variables", "globals_vars.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
@@ -50,10 +55,9 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_adafruit___p_n532_8cpp.html",
-"dir_029f705570928e09aeccaeeb5846808f.html"
+"Adafruit__PN532_8cpp.html",
+"dir_6d3354d18467b322bd8b3188e8f56e57.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronization';
-var SYNCOFFMSG = 'click to enable panel synchronization';
-var LISTOFALLMEMBERS = 'List of all members';
+var SYNCONMSG = 'click to disable panel synchronisation';
+var SYNCOFFMSG = 'click to enable panel synchronisation';

@@ -125,11 +125,14 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ab88d24c335ceba4a3bdc45b6fbbf7a41" id="r_ab88d24c335ceba4a3bdc45b6fbbf7a41"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classNODE_1_1NPieceNode.html#ab88d24c335ceba4a3bdc45b6fbbf7a41">on_piece_detection</a> (<a class="el" href="structGEvent.html">GEvent</a> event)</td></tr>
 <tr class="memdesc:ab88d24c335ceba4a3bdc45b6fbbf7a41"><td class="mdescLeft">&#160;</td><td class="mdescRight">Handles piece detection and removal events.  <br /></td></tr>
 <tr class="separator:ab88d24c335ceba4a3bdc45b6fbbf7a41"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9cd51c97071c89db34b933a6aeb471b8" id="r_a9cd51c97071c89db34b933a6aeb471b8"><td class="memItemLeft" align="right" valign="top"><a id="a9cd51c97071c89db34b933a6aeb471b8" name="a9cd51c97071c89db34b933a6aeb471b8"></a>
-String&#160;</td><td class="memItemRight" valign="bottom"><b>get_piece_id</b> () const</td></tr>
+<tr class="memitem:a9cd51c97071c89db34b933a6aeb471b8" id="r_a9cd51c97071c89db34b933a6aeb471b8"><td class="memItemLeft" align="right" valign="top">String&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classNODE_1_1NPieceNode.html#a9cd51c97071c89db34b933a6aeb471b8">get_piece_id</a> () const</td></tr>
+<tr class="memdesc:a9cd51c97071c89db34b933a6aeb471b8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retrieves the piece ID.  <br /></td></tr>
 <tr class="separator:a9cd51c97071c89db34b933a6aeb471b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8ee85ab2e905a0100b5c5723fbd4b97f" id="r_a8ee85ab2e905a0100b5c5723fbd4b97f"><td class="memItemLeft" align="right" valign="top"><a id="a8ee85ab2e905a0100b5c5723fbd4b97f" name="a8ee85ab2e905a0100b5c5723fbd4b97f"></a>
-<a class="el" href="structNODE_1_1NPieceNode_1_1Position2D.html">Position2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>get_piece_position</b> () const</td></tr>
+<tr class="memitem:ac61a902c869c1b2daaec122421137beb" id="r_ac61a902c869c1b2daaec122421137beb"><td class="memItemLeft" align="right" valign="top">String&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classNODE_1_1NPieceNode.html#ac61a902c869c1b2daaec122421137beb">get_piece_id_retrieved</a> () const</td></tr>
+<tr class="memdesc:ac61a902c869c1b2daaec122421137beb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retrieves the piece ID that was read from the module.  <br /></td></tr>
+<tr class="separator:ac61a902c869c1b2daaec122421137beb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ee85ab2e905a0100b5c5723fbd4b97f" id="r_a8ee85ab2e905a0100b5c5723fbd4b97f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structNODE_1_1NPieceNode_1_1Position2D.html">Position2D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classNODE_1_1NPieceNode.html#a8ee85ab2e905a0100b5c5723fbd4b97f">get_piece_position</a> () const</td></tr>
+<tr class="memdesc:a8ee85ab2e905a0100b5c5723fbd4b97f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the position of the piece.  <br /></td></tr>
 <tr class="separator:a8ee85ab2e905a0100b5c5723fbd4b97f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
@@ -139,6 +142,69 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>operator==</b> (const
 <tr class="separator:aa81524e7523cce84938087dd633acb21"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="a9cd51c97071c89db34b933a6aeb471b8" name="a9cd51c97071c89db34b933a6aeb471b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9cd51c97071c89db34b933a6aeb471b8">&#9670;&#160;</a></span>get_piece_id()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">String NODE::NPieceNode::get_piece_id </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Retrieves the piece ID. </p>
+<p>This method returns the piece ID that was set during the initialization of the <a class="el" href="classNODE_1_1NPieceNode.html">NPieceNode</a>. It can be used to identify the piece in the game.</p>
+<dl class="section return"><dt>Returns</dt><dd>The piece ID as a String. </dd></dl>
+
+</div>
+</div>
+<a id="ac61a902c869c1b2daaec122421137beb" name="ac61a902c869c1b2daaec122421137beb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac61a902c869c1b2daaec122421137beb">&#9670;&#160;</a></span>get_piece_id_retrieved()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">String NODE::NPieceNode::get_piece_id_retrieved </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Retrieves the piece ID that was read from the module. </p>
+<p>This method returns the piece ID that was retrieved from the module during identification. It can be used to check if the piece has been identified.</p>
+<dl class="section return"><dt>Returns</dt><dd>The piece ID retrieved from the module. </dd></dl>
+
+</div>
+</div>
+<a id="a8ee85ab2e905a0100b5c5723fbd4b97f" name="a8ee85ab2e905a0100b5c5723fbd4b97f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ee85ab2e905a0100b5c5723fbd4b97f">&#9670;&#160;</a></span>get_piece_position()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="structNODE_1_1NPieceNode_1_1Position2D.html">NPieceNode::Position2D</a> NODE::NPieceNode::get_piece_position </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Gets the position of the piece. </p>
+<p>This method returns the current position of the piece on the board. The position is represented as a <a class="el" href="structNODE_1_1NPieceNode_1_1Position2D.html">Position2D</a> structure containing x and y coordinates.</p>
+<dl class="section return"><dt>Returns</dt><dd>The position of the piece as a <a class="el" href="structNODE_1_1NPieceNode_1_1Position2D.html">Position2D</a> structure. </dd></dl>
+
+</div>
+</div>
 <a id="ab88d24c335ceba4a3bdc45b6fbbf7a41" name="ab88d24c335ceba4a3bdc45b6fbbf7a41"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ab88d24c335ceba4a3bdc45b6fbbf7a41">&#9670;&#160;</a></span>on_piece_detection()</h2>
 

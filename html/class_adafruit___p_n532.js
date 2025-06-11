@@ -1,0 +1,15 @@
+var class_adafruit___p_n532 =
+[
+    [ "Adafruit_PN532", "class_adafruit___p_n532.html#a41dae0d99fb00a2751cc1df7015b268f", null ],
+    [ "begin", "class_adafruit___p_n532.html#a3ee053332fd93cc85905fe000d292eaf", null ],
+    [ "getFirmwareVersion", "class_adafruit___p_n532.html#a14620908cffe0453ecc913f58a4ffbff", null ],
+    [ "inListPassiveTarget", "class_adafruit___p_n532.html#a19bf8a076c0f3a1a284e88e1ab8ca070", null ],
+    [ "readDetectedPassiveTargetID", "class_adafruit___p_n532.html#aad3489ad92ff24727ee0440b003e5dd4", null ],
+    [ "readPassiveTargetID", "class_adafruit___p_n532.html#a656bd0d65179203b4a2a6dbc4f283b9b", null ],
+    [ "reset", "class_adafruit___p_n532.html#a113b1f9d15c805491dc661cb80c63c46", null ],
+    [ "SAMConfig", "class_adafruit___p_n532.html#a2b74034bdea391edc7ee8d77815f5155", null ],
+    [ "sendCommandCheckAck", "class_adafruit___p_n532.html#ad7ac92e9e162a1b7c30ad5c5011bb5af", null ],
+    [ "setPassiveActivationRetries", "class_adafruit___p_n532.html#acd74386d666bd9ed5aca514892a92729", null ],
+    [ "startPassiveTargetIDDetection", "class_adafruit___p_n532.html#abc2197d7be4f5ef9c2f61887e8c661ed", null ],
+    [ "wakeup", "class_adafruit___p_n532.html#afcfcfcd8792ac2e5987380615cecb5b2", null ]
+];

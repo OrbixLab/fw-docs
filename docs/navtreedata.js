@@ -32,6 +32,11 @@ var NAVTREE =
     [ "NODES", "md_lib_2SyncBoard_2src_2Nodes_2Readme.html", null ],
     [ "Comandos entre la apliacion y el tablero.", "md_lib_2SyncBoard_2src_2Plugins_2AppComunication_2src_2Commands.html", null ],
     [ "Readme", "md_lib_2SyncBoard_2src_2Plugins_2Screen_2src_2library_01setups_2Readme.html", null ],
+    [ "SyncBoard Folder Structure", "md_lib_2SyncBoard_2src_2README.html", [
+      [ "Folder Structure", "md_lib_2SyncBoard_2src_2README.html#autotoc_md13", null ],
+      [ "File Overview", "md_lib_2SyncBoard_2src_2README.html#autotoc_md14", null ],
+      [ "How to Extend", "md_lib_2SyncBoard_2src_2README.html#autotoc_md15", null ]
+    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],

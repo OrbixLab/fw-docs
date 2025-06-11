@@ -8,5 +8,7 @@ var searchData=
   ['startpassivetargetiddetection_5',['startPassiveTargetIDDetection',['../classAdafruit__PN532.html#abc2197d7be4f5ef9c2f61887e8c661ed',1,'Adafruit_PN532']]],
   ['storage_6',['Storage',['../classStorage.html',1,'']]],
   ['strongstep_7',['StrongStep',['../classStrongStep.html',1,'']]],
-  ['syncboard_8',['Funcionamiento de SyncBoard.',['../md_lib_2SyncBoard_2src_2Core_2README.html',1,'']]]
+  ['structure_8',['structure',['../md_lib_2SyncBoard_2src_2README.html#autotoc_md13',1,'Folder Structure'],['../md_lib_2SyncBoard_2src_2README.html',1,'SyncBoard Folder Structure']]],
+  ['syncboard_9',['Funcionamiento de SyncBoard.',['../md_lib_2SyncBoard_2src_2Core_2README.html',1,'']]],
+  ['syncboard_20folder_20structure_10',['SyncBoard Folder Structure',['../md_lib_2SyncBoard_2src_2README.html',1,'']]]
 ];

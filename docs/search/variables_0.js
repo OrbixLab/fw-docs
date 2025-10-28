@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['pn532_5fpacketbuffer_0',['pn532_packetbuffer',['../Adafruit__PN532_8cpp.html#a6c82c4e3b30026370a8ef2f2ccb0edbc',1,'Adafruit_PN532.cpp']]],
-  ['pn532ack_1',['pn532ack',['../Adafruit__PN532_8cpp.html#aa22d314bb09620d76b094768d2bf2f9d',1,'Adafruit_PN532.cpp']]],
-  ['pn532response_5ffirmwarevers_2',['pn532response_firmwarevers',['../Adafruit__PN532_8cpp.html#a0ade0561a6654dca79d12a2bfe372ec5',1,'Adafruit_PN532.cpp']]]
+  ['adc_5foff_0',['ADC_OFF',['../classADS7828.html#a549dac1cf601d73206aa65bae7ab39dc',1,'ADS7828']]],
+  ['adc_5fon_1',['ADC_ON',['../classADS7828.html#a1eeddfc0d13f60e16118d48b3a520cf9',1,'ADS7828']]]
 ];

@@ -127,9 +127,6 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>set_layers</b> (std::
 <tr class="memitem:a51da5eb349bc308d4d63e45ac187051c" id="r_a51da5eb349bc308d4d63e45ac187051c"><td class="memItemLeft" align="right" valign="top"><a id="a51da5eb349bc308d4d63e45ac187051c" name="a51da5eb349bc308d4d63e45ac187051c"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>set_colormap</b> (std::vector&lt; u_int8_t &gt; *p_data)</td></tr>
 <tr class="separator:a51da5eb349bc308d4d63e45ac187051c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab814ebdbacd8ec139235393ff24aa1de" id="r_ab814ebdbacd8ec139235393ff24aa1de"><td class="memItemLeft" align="right" valign="top"><a id="ab814ebdbacd8ec139235393ff24aa1de" name="ab814ebdbacd8ec139235393ff24aa1de"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>set_module_location_game</b> (std::vector&lt; u_int8_t &gt; *p_data)</td></tr>
-<tr class="separator:ab814ebdbacd8ec139235393ff24aa1de"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8717dafc80aebd521e58771bd285bb84" id="r_a8717dafc80aebd521e58771bd285bb84"><td class="memItemLeft" align="right" valign="top"><a id="a8717dafc80aebd521e58771bd285bb84" name="a8717dafc80aebd521e58771bd285bb84"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>set_layers_game</b> (u_int8_t *p_data)</td></tr>
 <tr class="separator:a8717dafc80aebd521e58771bd285bb84"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -139,12 +136,27 @@ std::vector&lt; <a class="el" href="structModule__t.html">Module_t</a> &gt; *&#1
 <tr class="memitem:a2bd36275a1ef143b5e1a12573ccc96c3" id="r_a2bd36275a1ef143b5e1a12573ccc96c3"><td class="memItemLeft" align="right" valign="top"><a id="a2bd36275a1ef143b5e1a12573ccc96c3" name="a2bd36275a1ef143b5e1a12573ccc96c3"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>load_map</b> ()</td></tr>
 <tr class="separator:a2bd36275a1ef143b5e1a12573ccc96c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7247cc3b7e8b8261434e951dfeb73af" id="r_af7247cc3b7e8b8261434e951dfeb73af"><td class="memItemLeft" align="right" valign="top"><a id="af7247cc3b7e8b8261434e951dfeb73af" name="af7247cc3b7e8b8261434e951dfeb73af"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>is_colormap_set</b> (uint8_t layer=0)</td></tr>
+<tr class="separator:af7247cc3b7e8b8261434e951dfeb73af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99a187d3ef4582929536061792843bf7" id="r_a99a187d3ef4582929536061792843bf7"><td class="memItemLeft" align="right" valign="top"><a id="a99a187d3ef4582929536061792843bf7" name="a99a187d3ef4582929536061792843bf7"></a>
+uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>get_max_layers</b> ()</td></tr>
+<tr class="separator:a99a187d3ef4582929536061792843bf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9fca923460c31499efee60fca2bb5f8a" id="r_a9fca923460c31499efee60fca2bb5f8a"><td class="memItemLeft" align="right" valign="top"><a id="a9fca923460c31499efee60fca2bb5f8a" name="a9fca923460c31499efee60fca2bb5f8a"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>clear_colormaps</b> ()</td></tr>
+<tr class="separator:a9fca923460c31499efee60fca2bb5f8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd0d417def1cafffb84db0ef5cb511c1" id="r_acd0d417def1cafffb84db0ef5cb511c1"><td class="memItemLeft" align="right" valign="top"><a id="acd0d417def1cafffb84db0ef5cb511c1" name="acd0d417def1cafffb84db0ef5cb511c1"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>print_colormap_status</b> ()</td></tr>
+<tr class="separator:acd0d417def1cafffb84db0ef5cb511c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acca7533009117cbd4f49a66bd4a47c5c" id="r_acca7533009117cbd4f49a66bd4a47c5c"><td class="memItemLeft" align="right" valign="top"><a id="acca7533009117cbd4f49a66bd4a47c5c" name="acca7533009117cbd4f49a66bd4a47c5c"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>load_custom_map</b> (uint8_t *_map)</td></tr>
 <tr class="separator:acca7533009117cbd4f49a66bd4a47c5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac85246cc9f94e2d52ac7a5fcb3af0ce3" id="r_ac85246cc9f94e2d52ac7a5fcb3af0ce3"><td class="memItemLeft" align="right" valign="top"><a id="ac85246cc9f94e2d52ac7a5fcb3af0ce3" name="ac85246cc9f94e2d52ac7a5fcb3af0ce3"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>init_modules</b> ()</td></tr>
 <tr class="separator:ac85246cc9f94e2d52ac7a5fcb3af0ce3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a91024a59debf2a3975a4711674cc10a9" id="r_a91024a59debf2a3975a4711674cc10a9"><td class="memItemLeft" align="right" valign="top"><a id="a91024a59debf2a3975a4711674cc10a9" name="a91024a59debf2a3975a4711674cc10a9"></a>
+<a class="el" href="structOrbix__RGB__t.html">Orbix_RGB_t</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>get_colormap</b> (uint8_t layer=0)</td></tr>
+<tr class="separator:a91024a59debf2a3975a4711674cc10a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -157,6 +169,12 @@ uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>MAX_Y_COORD</b></t
 <tr class="memitem:a4a1f2ad463881c54c1240e2ab702b00e" id="r_a4a1f2ad463881c54c1240e2ab702b00e"><td class="memItemLeft" align="right" valign="top"><a id="a4a1f2ad463881c54c1240e2ab702b00e" name="a4a1f2ad463881c54c1240e2ab702b00e"></a>
 struct <a class="el" href="structNODE_1_1NGameNode_1_1required__config__t.html">NODE::NGameNode::required_config_t</a>&#160;</td><td class="memItemRight" valign="bottom"><b>required_config</b></td></tr>
 <tr class="separator:a4a1f2ad463881c54c1240e2ab702b00e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e9bf7b53cc7c5bcc66a623491def83e" id="r_a6e9bf7b53cc7c5bcc66a623491def83e"><td class="memItemLeft" align="right" valign="top"><a id="a6e9bf7b53cc7c5bcc66a623491def83e" name="a6e9bf7b53cc7c5bcc66a623491def83e"></a>
+<a class="el" href="structmodule__led__instruction__t.html">module_led_instruction_t</a>&#160;</td><td class="memItemRight" valign="bottom"><b>module_instruction</b></td></tr>
+<tr class="separator:a6e9bf7b53cc7c5bcc66a623491def83e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77c8c2ca4d87a811e5a44bbd2f8d9e55" id="r_a77c8c2ca4d87a811e5a44bbd2f8d9e55"><td class="memItemLeft" align="right" valign="top"><a id="a77c8c2ca4d87a811e5a44bbd2f8d9e55" name="a77c8c2ca4d87a811e5a44bbd2f8d9e55"></a>
+<a class="el" href="structmap__config__t.html">map_config_t</a>&#160;</td><td class="memItemRight" valign="bottom"><b>map_config</b></td></tr>
+<tr class="separator:a77c8c2ca4d87a811e5a44bbd2f8d9e55"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>lib/SyncBoard/src/Nodes/GameNode/<a class="el" href="GameNode_8h_source.html">GameNode.h</a></li>

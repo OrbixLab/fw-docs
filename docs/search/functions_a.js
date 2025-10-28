@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['samconfig_0',['SAMConfig',['../classAdafruit__PN532.html#a2b74034bdea391edc7ee8d77815f5155',1,'Adafruit_PN532']]],
-  ['sendcommandcheckack_1',['sendCommandCheckAck',['../classAdafruit__PN532.html#ad7ac92e9e162a1b7c30ad5c5011bb5af',1,'Adafruit_PN532']]],
-  ['setpassiveactivationretries_2',['setPassiveActivationRetries',['../classAdafruit__PN532.html#acd74386d666bd9ed5aca514892a92729',1,'Adafruit_PN532']]],
-  ['setup_3',['setup',['../classBatteryManagment.html#aacb4caf65417a6ff9a1643116bff212e',1,'BatteryManagment::Setup()'],['../main_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d',1,'setup():&#160;main.cpp']]],
-  ['startpassivetargetiddetection_4',['startPassiveTargetIDDetection',['../classAdafruit__PN532.html#abc2197d7be4f5ef9c2f61887e8c661ed',1,'Adafruit_PN532']]]
+  ['printhex_0',['PrintHex',['../classAdafruit__PN532.html#aacbd3b2a52c7f9425ea2df8f836daf84',1,'Adafruit_PN532']]],
+  ['printhexchar_1',['PrintHexChar',['../classAdafruit__PN532.html#a442fb92e520bbc10196259d41e10a121',1,'Adafruit_PN532']]]
 ];

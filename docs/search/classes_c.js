@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['tagscanner_0',['TagScanner',['../classTagScanner.html',1,'']]],
-  ['tile_5fpostion_5ft_1',['tile_postion_t',['../structtile__postion__t.html',1,'']]]
+  ['starrynightanimation_0',['StarryNightAnimation',['../classStarryNightAnimation.html',1,'']]],
+  ['storage_1',['Storage',['../classStorage.html',1,'']]],
+  ['strongstep_2',['StrongStep',['../classStrongStep.html',1,'']]]
 ];

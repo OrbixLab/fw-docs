@@ -37,12 +37,14 @@ var searchData=
   ['ndef_5furiprefix_5furn_5fepc_5fraw_34',['NDEF_URIPREFIX_URN_EPC_RAW',['../Adafruit__PN532_8h.html#af52214c7064f49365aec63aef1b750ac',1,'Adafruit_PN532.h']]],
   ['ndef_5furiprefix_5furn_5fepc_5ftag_35',['NDEF_URIPREFIX_URN_EPC_TAG',['../Adafruit__PN532_8h.html#a264c05c12b7cae096e9396fc8c2688f3',1,'Adafruit_PN532.h']]],
   ['ndef_5furiprefix_5furn_5fnfc_36',['NDEF_URIPREFIX_URN_NFC',['../Adafruit__PN532_8h.html#aa2532b1021f8d7d8f1f0dd2921801ecd',1,'Adafruit_PN532.h']]],
-  ['nfcreader_37',['NfcReader',['../classNfcReader.html',1,'']]],
-  ['ngamenode_38',['NGameNode',['../classNODE_1_1NGameNode.html',1,'NODE']]],
-  ['nlednode_39',['NLEDNode',['../classNODE_1_1NLEDNode.html',1,'NODE']]],
-  ['nodes_40',['NODES',['../md_lib_2SyncBoard_2src_2Nodes_2Readme.html',1,'']]],
-  ['npiecenode_41',['NPieceNode',['../classNODE_1_1NPieceNode.html',1,'NODE']]],
-  ['nplayernode_42',['NPlayerNode',['../classNODE_1_1NPlayerNode.html',1,'NODE']]],
-  ['nscreennode_43',['NScreenNode',['../classNODE_1_1NScreenNode.html',1,'NODE']]],
-  ['ntilecalculator_44',['NTileCalculator',['../classNTileCalculator.html',1,'']]]
+  ['newsample_37',['newSample',['../classADS7828Channel.html#ab5701f667bfdb461f304805ae760d3c6',1,'ADS7828Channel']]],
+  ['nfcreader_38',['NfcReader',['../classNfcReader.html',1,'']]],
+  ['ngamenode_39',['NGameNode',['../classNODE_1_1NGameNode.html',1,'NODE']]],
+  ['nlednode_40',['NLEDNode',['../classNODE_1_1NLEDNode.html',1,'NODE']]],
+  ['noconnectiontest_41',['NoConnectionTest',['../classNoConnectionTest.html',1,'']]],
+  ['nodes_42',['NODES',['../md_lib_2SyncBoard_2src_2Nodes_2Readme.html',1,'']]],
+  ['npiecenode_43',['NPieceNode',['../classNODE_1_1NPieceNode.html',1,'NODE']]],
+  ['nplayernode_44',['NPlayerNode',['../classNODE_1_1NPlayerNode.html',1,'NODE']]],
+  ['nscreennode_45',['NScreenNode',['../classNODE_1_1NScreenNode.html',1,'NODE']]],
+  ['ntilecalculator_46',['NTileCalculator',['../classNTileCalculator.html',1,'']]]
 ];

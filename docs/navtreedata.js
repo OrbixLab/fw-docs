@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "ORBIX FW", "index.html", [
+    [ "Arduino library for TI ADS7828 I2C A/D converter.", "index.html", null ],
     [ "Funcionamiento de SyncBoard.", "md_lib_2SyncBoard_2src_2Core_2README.html", null ],
     [ "HardwareSetup", "md_lib_2SyncBoard_2src_2Hardware_2HardwareSetup.html", null ],
     [ "Config", "md_lib_2SyncBoard_2src_2Hardware_2SCREEN_2Config.html", null ],
@@ -37,13 +38,15 @@ var NAVTREE =
       [ "File Overview", "md_lib_2SyncBoard_2src_2README.html#autotoc_md14", null ],
       [ "How to Extend", "md_lib_2SyncBoard_2src_2README.html#autotoc_md15", null ]
     ] ],
+    [ "Todo List", "todo.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ]
+        [ "Functions", "functions_func.html", null ],
+        [ "Variables", "functions_vars.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -54,14 +57,15 @@ var NAVTREE =
         [ "Variables", "globals_vars.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
-    ] ]
+    ] ],
+    [ "Examples", "examples.html", "examples" ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
 "Adafruit__PN532_8cpp.html",
-"dir_68267d1309a1af8e8297ef4c3efbcdba.html"
+"classNTileCalculator.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -114,13 +114,16 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ae819fdde5065efbd88f691f747f27fb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a918ac883aff1172a396e15c9cea317da" id="r_a918ac883aff1172a396e15c9cea317da"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classWave.html#a918ac883aff1172a396e15c9cea317da">end</a> () override</td></tr>
 <tr class="separator:a918ac883aff1172a396e15c9cea317da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3bfa72087beda2d3f4f35bf3b3f34890" id="r_a3bfa72087beda2d3f4f35bf3b3f34890"><td class="memItemLeft" align="right" valign="top"><a id="a3bfa72087beda2d3f4f35bf3b3f34890" name="a3bfa72087beda2d3f4f35bf3b3f34890"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>stop</b> ()</td></tr>
+<tr class="separator:a3bfa72087beda2d3f4f35bf3b3f34890"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afa2a4b7f01855f30908a12f3afe8b90c" id="r_afa2a4b7f01855f30908a12f3afe8b90c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classWave.html#afa2a4b7f01855f30908a12f3afe8b90c">update</a> (unsigned long millis) override</td></tr>
 <tr class="separator:afa2a4b7f01855f30908a12f3afe8b90c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1420bdaed01103a387c4fc8da66a005a" id="r_a1420bdaed01103a387c4fc8da66a005a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classWave.html#a1420bdaed01103a387c4fc8da66a005a">reset</a> () override</td></tr>
 <tr class="separator:a1420bdaed01103a387c4fc8da66a005a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abcf0a3401aa36a3be346edea6c6dc6fa" id="r_abcf0a3401aa36a3be346edea6c6dc6fa"><td class="memItemLeft" align="right" valign="top"><a id="abcf0a3401aa36a3be346edea6c6dc6fa" name="abcf0a3401aa36a3be346edea6c6dc6fa"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>changeColor</b> (bool connected)</td></tr>
-<tr class="separator:abcf0a3401aa36a3be346edea6c6dc6fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a774e925a7eff986cb79f075194e4622f" id="r_a774e925a7eff986cb79f075194e4622f"><td class="memItemLeft" align="right" valign="top"><a id="a774e925a7eff986cb79f075194e4622f" name="a774e925a7eff986cb79f075194e4622f"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>changeColor</b> (bool connected, <a class="el" href="structOrbix__RGB__t.html">Orbix_RGB_t</a> new_color={0, 255, 0})</td></tr>
+<tr class="separator:a774e925a7eff986cb79f075194e4622f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classLEDAnimation"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classLEDAnimation')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classLEDAnimation.html">LEDAnimation</a></td></tr>
 <tr class="memitem:aa74587872cae5711f41c792524f4324b inherit pub_methods_classLEDAnimation" id="r_aa74587872cae5711f41c792524f4324b"><td class="memItemLeft" align="right" valign="top">
 void&#160;</td><td class="memItemRight" valign="bottom"><b>setLED</b> (uint16_t index, uint8_t red, uint8_t green, uint8_t blue, uint8_t brightness)</td></tr>
@@ -131,6 +134,9 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>setAllLEDs</b> (uint8
 <tr class="memitem:a4f1434811a8338bffc069d30ef5d0e8b inherit pub_methods_classLEDAnimation" id="r_a4f1434811a8338bffc069d30ef5d0e8b"><td class="memItemLeft" align="right" valign="top">
 uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>get_LED_index</b> (uint8_t x, uint8_t y)</td></tr>
 <tr class="separator:a4f1434811a8338bffc069d30ef5d0e8b inherit pub_methods_classLEDAnimation"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b466cce2d2353cb53fbfe16871aec29 inherit pub_methods_classLEDAnimation" id="r_a3b466cce2d2353cb53fbfe16871aec29"><td class="memItemLeft" align="right" valign="top">
+<a class="el" href="structOrbix__RGB__t.html">Orbix_RGB_t</a>&#160;</td><td class="memItemRight" valign="bottom"><b>getLEDColor</b> (uint8_t index)</td></tr>
+<tr class="separator:a3b466cce2d2353cb53fbfe16871aec29 inherit pub_methods_classLEDAnimation"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af88d01c6dac2d54ebae442b1f3d3c381 inherit pub_methods_classLEDAnimation" id="r_af88d01c6dac2d54ebae442b1f3d3c381"><td class="memItemLeft" align="right" valign="top">
 void&#160;</td><td class="memItemRight" valign="bottom"><b>set_animation_id</b> (uint8_t id)</td></tr>
 <tr class="separator:af88d01c6dac2d54ebae442b1f3d3c381 inherit pub_methods_classLEDAnimation"><td class="memSeparator" colspan="2">&#160;</td></tr>

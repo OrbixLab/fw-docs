@@ -46,6 +46,7 @@ var annotated_dup =
     [ "NoConnectionTest", "classNoConnectionTest.html", null ],
     [ "NTileCalculator", "classNTileCalculator.html", "classNTileCalculator" ],
     [ "Orbix_RGB_t", "structOrbix__RGB__t.html", null ],
+    [ "Orbix_RGBW_t", "structOrbix__RGBW__t.html", null ],
     [ "Piece_data_t", "structPiece__data__t.html", null ],
     [ "PieceScanner", "classPieceScanner.html", null ],
     [ "PowerButton", "classPowerButton.html", null ],

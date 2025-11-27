@@ -62,6 +62,7 @@ var hierarchy =
     [ "NODE::NScreenNode", "classNODE_1_1NScreenNode.html", null ],
     [ "NTileCalculator", "classNTileCalculator.html", null ],
     [ "Orbix_RGB_t", "structOrbix__RGB__t.html", null ],
+    [ "Orbix_RGBW_t", "structOrbix__RGBW__t.html", null ],
     [ "Piece_data_t", "structPiece__data__t.html", null ],
     [ "NODE::NPlayerNode::player_color_t", "structNODE_1_1NPlayerNode_1_1player__color__t.html", null ],
     [ "NODE::NPlayerNode::player_t", "structNODE_1_1NPlayerNode_1_1player__t.html", null ],

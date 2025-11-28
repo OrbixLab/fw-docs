@@ -128,9 +128,9 @@ $(document).ready(function(){initNavTree('LEDEngine_8h_source.html',''); initRes
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span> </div>
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>    <span class="keyword">virtual</span> <span class="keywordtype">bool</span> end() = 0;</div>
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span> </div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>    <span class="keywordtype">void</span> setLED(uint16_t index, uint8_t red, uint8_t green, uint8_t blue, uint8_t white = 0, uint8_t brightness = 255)</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>    <span class="keywordtype">void</span> setLED(uint16_t index, uint8_t red, uint8_t green, uint8_t blue, uint8_t white = 0, uint8_t brightness = 120)</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    {</div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        brightness = (brightness &gt; 60) ? 60 : brightness;</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        <span class="comment">//brightness = (brightness &gt; 60) ? 60 : brightness;</span></div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>        <span class="keywordtype">float</span> scale = (brightness != 0) ? (brightness / 255.0f) : 0.0f; <span class="comment">// Escalar el brillo a un valor entre 0 y 1</span></div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>        uint8_t red_scaled = <span class="keyword">static_cast&lt;</span>uint8_t<span class="keyword">&gt;</span>(red * scale);</div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>        uint8_t green_scaled = <span class="keyword">static_cast&lt;</span>uint8_t<span class="keyword">&gt;</span>(green * scale);</div>

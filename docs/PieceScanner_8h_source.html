@@ -111,11 +111,11 @@ $(document).ready(function(){initNavTree('PieceScanner_8h_source.html',''); init
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">private</span>:</div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    uint32_t lastSample;</div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>    <span class="comment">// Define thresholds and filter parameters </span></div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    <span class="keyword">const</span> <span class="keywordtype">int</span> ON_THRESHOLD = 490; </div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    <span class="keyword">const</span> <span class="keywordtype">int</span> ON_THRESHOLD = 480; </div>
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    <span class="comment">// Example value </span></div>
 <div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    <span class="keyword">const</span> <span class="keywordtype">int</span> OFF_THRESHOLD = 560;</div>
 <div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    <span class="comment">// Example value, lower than ON_THRESHOLD </span></div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>    <span class="keyword">const</span> <span class="keywordtype">float</span> ALPHA = 0.2; <span class="comment">// Smoothing factor for EMA (reducido para más filtrado al usar sample() directo)</span></div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>    <span class="keyword">const</span> <span class="keywordtype">float</span> ALPHA = 0.5; <span class="comment">// Smoothing factor for EMA (reducido para más filtrado al usar sample() directo)</span></div>
 <div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span> </div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>    <span class="keywordtype">float</span> filteredAnalogValue = 0; </div>
 <div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>    </div>

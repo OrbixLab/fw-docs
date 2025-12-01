@@ -37,12 +37,8 @@ var hierarchy =
     [ "header_t", "structheader__t.html", null ],
     [ "LEDAnimation", "classLEDAnimation.html", [
       [ "BlinkingAnimation", "classBlinkingAnimation.html", null ],
-      [ "BreathingAnimation", "classBreathingAnimation.html", null ],
-      [ "Connected", "classConnected.html", null ],
       [ "NoConnectionTest", "classNoConnectionTest.html", null ],
       [ "PredefinedAnimation", "classPredefinedAnimation.html", null ],
-      [ "RainbowAnimation", "classRainbowAnimation.html", null ],
-      [ "StarryNightAnimation", "classStarryNightAnimation.html", null ],
       [ "StrongStep", "classStrongStep.html", null ],
       [ "Wave", "classWave.html", null ],
       [ "WaveFadeOut", "classWaveFadeOut.html", null ]

@@ -64,7 +64,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "Adafruit__PN532_8cpp.html",
-"classPowerButton.html"
+"classWaveFadeOut.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

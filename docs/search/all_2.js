@@ -14,12 +14,11 @@ var searchData=
   ['colormap_20de_20cada_20modulo_11',['COLORMAP DE CADA MODULO.',['../md_lib_2SyncBoard_2src_2Plugins_2AppComunication_2src_2Commands.html#autotoc_md6',1,'']]],
   ['comandos_20entre_20la_20apliacion_20y_20el_20tablero_12',['Comandos entre la apliacion y el tablero.',['../md_lib_2SyncBoard_2src_2Plugins_2AppComunication_2src_2Commands.html',1,'']]],
   ['command_5fdata_5ft_13',['command_data_t',['../structcommand__data__t.html',1,'']]],
-  ['commandbyte_14',['commandbyte',['../classADS7828Channel.html#ade03373a3a798f8839e24f01b2df5a98',1,'ADS7828Channel::commandByte()'],['../classADS7828.html#af700fae6cff698172dbe8ac752d74e9b',1,'ADS7828::commandByte()']]],
+  ['commandbyte_14',['commandbyte',['../classADS7828.html#af700fae6cff698172dbe8ac752d74e9b',1,'ADS7828::commandByte()'],['../classADS7828Channel.html#ade03373a3a798f8839e24f01b2df5a98',1,'ADS7828Channel::commandByte()']]],
   ['communications_5ftimer_5ft_15',['communications_timer_t',['../structcommunications__timer__t.html',1,'']]],
   ['component_5fstate_5ft_16',['component_state_t',['../structcomponent__state__t.html',1,'']]],
   ['config_17',['Config',['../md_lib_2SyncBoard_2src_2Hardware_2SCREEN_2Config.html',1,'']]],
-  ['connected_18',['Connected',['../classConnected.html',1,'']]],
-  ['connectionmanager_19',['ConnectionManager',['../classConnectionManager.html',1,'']]],
-  ['converter_20',['Arduino library for TI ADS7828 I2C A/D converter.',['../index.html',1,'']]],
-  ['core_21',['Core',['../classCore.html',1,'']]]
+  ['connectionmanager_18',['ConnectionManager',['../classConnectionManager.html',1,'']]],
+  ['converter_19',['Arduino library for TI ADS7828 I2C A/D converter.',['../index.html',1,'']]],
+  ['core_20',['Core',['../classCore.html',1,'']]]
 ];

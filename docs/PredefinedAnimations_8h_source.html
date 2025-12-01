@@ -128,7 +128,7 @@ $(document).ready(function(){initNavTree('PredefinedAnimations_8h_source.html','
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>            lastUpdateTime = millis;</div>
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span> </div>
 <div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>            <span class="keyword">const</span> <a class="code hl_struct" href="structLEDInstruction.html">LEDInstruction</a> &amp;instr = instructions[currentInstructionIndex];</div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>            setLED(instr.ledIndex, instr.red, instr.green, instr.blue, instr.brightness);</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>            setLED(instr.ledIndex, instr.red, instr.green, instr.blue, instr.white, instr.brightness);</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span> </div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>            currentInstructionIndex = (currentInstructionIndex + 1) % instructions.size();</div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>        }</div>
@@ -140,7 +140,7 @@ $(document).ready(function(){initNavTree('PredefinedAnimations_8h_source.html','
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>        lastUpdateTime = 0;</div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    }</div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span> </div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    <span class="keywordtype">void</span> setLED(uint16_t index, uint8_t red, uint8_t green, uint8_t blue, uint8_t brightness)</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    <span class="keywordtype">void</span> setLED(uint16_t index, uint8_t red, uint8_t green, uint8_t blue, uint8_t white, uint8_t brightness)</div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>    {</div>
 <div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        <span class="comment">// Aquí la lógica para actualizar físicamente el LED</span></div>
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    }</div>

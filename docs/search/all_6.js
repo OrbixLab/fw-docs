@@ -1,10 +1,11 @@
 var searchData=
 [
-  ['gamemanager_0',['GameManager',['../classGameManager.html',1,'']]],
-  ['get_5fpiece_5fid_1',['get_piece_id',['../classNODE_1_1NPieceNode.html#a9cd51c97071c89db34b933a6aeb471b8',1,'NODE::NPieceNode']]],
-  ['get_5fpiece_5fid_5fretrieved_2',['get_piece_id_retrieved',['../classNODE_1_1NPieceNode.html#ac61a902c869c1b2daaec122421137beb',1,'NODE::NPieceNode']]],
-  ['get_5fpiece_5fposition_3',['get_piece_position',['../classNODE_1_1NPieceNode.html#a8ee85ab2e905a0100b5c5723fbd4b97f',1,'NODE::NPieceNode']]],
-  ['getfirmwareversion_4',['getFirmwareVersion',['../classAdafruit__PN532.html#a14620908cffe0453ecc913f58a4ffbff',1,'Adafruit_PN532']]],
-  ['gevent_5',['GEvent',['../structGEvent.html',1,'']]],
-  ['guardado_6',['ARCHIVO DE GUARDADO',['../md_lib_2SyncBoard_2src_2Plugins_2AppComunication_2src_2Commands.html#autotoc_md11',1,'']]]
+  ['f_0',['f',['../classBatteryManagment.html#a96b9dda788b1e0afbd0064eabcac000e',1,'BatteryManagment']]],
+  ['fichas_1',['POSICION DE LAS FICHAS',['../md_lib_2SyncBoard_2src_2Plugins_2AppComunication_2src_2Commands.html#autotoc_md7',1,'']]],
+  ['file_20overview_2',['File Overview',['../md_lib_2SyncBoard_2src_2README.html#autotoc_md14',1,'']]],
+  ['folder_20structure_3',['folder structure',['../md_lib_2SyncBoard_2src_2README.html#autotoc_md13',1,'Folder Structure'],['../md_lib_2SyncBoard_2src_2README.html',1,'SyncBoard Folder Structure']]],
+  ['for_20ti_20ads7828_20i2c_20a_20d_20converter_4',['Arduino library for TI ADS7828 I2C A/D converter.',['../index.html',1,'']]],
+  ['funcionamiento_20de_20syncboard_5',['Funcionamiento de SyncBoard.',['../md_lib_2SyncBoard_2src_2Core_2README.html',1,'']]],
+  ['functions_6',['Functions',['../md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md25',1,'']]],
+  ['functions_20library_20v1_2012_7',['I2C Functions Library ^V1.12^',['../md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html',1,'']]]
 ];

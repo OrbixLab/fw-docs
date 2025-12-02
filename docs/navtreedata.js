@@ -37,6 +37,27 @@ var NAVTREE =
       [ "File Overview", "md_lib_2SyncBoard_2src_2README.html#autotoc_md14", null ],
       [ "How to Extend", "md_lib_2SyncBoard_2src_2README.html#autotoc_md15", null ]
     ] ],
+    [ "I2C Functions Library ^V1.12^", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html", [
+      [ "Abstract", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md19", null ],
+      [ "Object Creation", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md21", null ],
+      [ "Pre-Defined Values", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md23", null ],
+      [ "Functions", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md25", [
+        [ "Read_Register", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md26", null ],
+        [ "Write_Register", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md27", null ],
+        [ "Read_Multiple_Register", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md28", null ],
+        [ "Read_Multiple_Register_u16", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md29", null ],
+        [ "Write_Multiple_Register", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md30", null ],
+        [ "Write_Command", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md31", null ],
+        [ "Write_Multiple_Command", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md32", null ],
+        [ "Set_Register_Bit", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md33", null ],
+        [ "Clear_Register_Bit", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md34", null ],
+        [ "Read_Register_Bit", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md35", null ],
+        [ "Set_Mux_Channel", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md36", null ],
+        [ "Detect", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md37", null ],
+        [ "Address", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md38", null ],
+        [ "Mux_Channel", "md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md39", null ]
+      ] ]
+    ] ],
     [ "Todo List", "todo.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
@@ -64,7 +85,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "Adafruit__PN532_8cpp.html",
-"classTagScanner.html"
+"classNoConnectionTest.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

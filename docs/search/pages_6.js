@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['i2c_20a_20d_20converter_0',['Arduino library for TI ADS7828 I2C A/D converter.',['../index.html',1,'']]]
+  ['hardwaresetup_0',['HardwareSetup',['../md_lib_2SyncBoard_2src_2Hardware_2HardwareSetup.html',1,'']]]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['tagscanner_0',['TagScanner',['../classTagScanner.html',1,'']]],
-  ['tile_5fpostion_5ft_1',['tile_postion_t',['../structtile__postion__t.html',1,'']]]
+  ['required_5fconfig_5ft_0',['required_config_t',['../structNODE_1_1NGameNode_1_1required__config__t.html',1,'NODE::NGameNode']]]
 ];

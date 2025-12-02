@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['wakeup_0',['wakeup',['../classAdafruit__PN532.html#afcfcfcd8792ac2e5987380615cecb5b2',1,'Adafruit_PN532']]],
-  ['wave_1',['Wave',['../classWave.html',1,'']]],
-  ['wavefadeout_2',['WaveFadeOut',['../classWaveFadeOut.html',1,'']]],
-  ['wifi_5forbix_3',['WiFi_Orbix',['../classWiFi__Orbix.html',1,'']]]
+  ['v1_2012_0',['I2C Functions Library ^V1.12^',['../md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html',1,'']]],
+  ['value_1',['value',['../classADS7828Channel.html#a8b6c345cbe33c2444cf12f736d8d61da',1,'ADS7828Channel']]],
+  ['values_2',['Pre-Defined Values',['../md_lib_2SyncBoard_2src_2ThirdParty_2I2C__Functions_2README.html#autotoc_md23',1,'']]]
 ];

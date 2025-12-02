@@ -18,6 +18,7 @@ var hierarchy =
       [ "TagScanner", "classTagScanner.html", null ],
       [ "WiFi_Orbix", "classWiFi__Orbix.html", null ]
     ] ],
+    [ "battery_info_t", "structbattery__info__t.html", null ],
     [ "ble_t", "structble__t.html", null ],
     [ "BLECharacteristicCallbacks", null, [
       [ "CharacteristicCallbacks", "classCharacteristicCallbacks.html", null ]
@@ -30,12 +31,16 @@ var hierarchy =
     [ "communications_timer_t", "structcommunications__timer__t.html", null ],
     [ "component_state_t", "structcomponent__state__t.html", null ],
     [ "Core", "classCore.html", null ],
+    [ "I2C_Functions::Library_Variable_Structure::Device_Structure", "structI2C__Functions_1_1Library__Variable__Structure_1_1Device__Structure.html", null ],
     [ "ESP_NOW", "classESP__NOW.html", null ],
     [ "Event", "structEvent.html", null ],
     [ "EventHandler", "classEventHandler.html", null ],
     [ "GEvent", "structGEvent.html", null ],
     [ "Header", "structHeader.html", null ],
     [ "header_t", "structheader__t.html", null ],
+    [ "I2C_Functions", "classI2C__Functions.html", [
+      [ "MAX17055", "classMAX17055.html", null ]
+    ] ],
     [ "LEDAnimation", "classLEDAnimation.html", [
       [ "BlinkingAnimation", "classBlinkingAnimation.html", null ],
       [ "NoConnectionTest", "classNoConnectionTest.html", null ],
@@ -51,6 +56,7 @@ var hierarchy =
     [ "module_led_instruction_t", "structmodule__led__instruction__t.html", null ],
     [ "Module_t", "structModule__t.html", null ],
     [ "ModuleMessage", "structModuleMessage.html", null ],
+    [ "I2C_Functions::Library_Variable_Structure::Multiplexer_Structure", "structI2C__Functions_1_1Library__Variable__Structure_1_1Multiplexer__Structure.html", null ],
     [ "NODE::NController", "classNODE_1_1NController.html", null ],
     [ "NODE::NGameNode", "classNODE_1_1NGameNode.html", null ],
     [ "NODE::NLEDNode", "classNODE_1_1NLEDNode.html", null ],

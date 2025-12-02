@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['required_5fconfig_5ft_0',['required_config_t',['../structNODE_1_1NGameNode_1_1required__config__t.html',1,'NODE::NGameNode']]]
+  ['orbix_5frgb_5ft_0',['Orbix_RGB_t',['../structOrbix__RGB__t.html',1,'']]],
+  ['orbix_5frgbw_5ft_1',['Orbix_RGBW_t',['../structOrbix__RGBW__t.html',1,'']]]
 ];

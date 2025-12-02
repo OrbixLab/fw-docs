@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['esp_5fnow_0',['ESP_NOW',['../classESP__NOW.html',1,'']]],
-  ['event_1',['Event',['../structEvent.html',1,'']]],
-  ['eventhandler_2',['EventHandler',['../classEventHandler.html',1,'']]]
+  ['device_5fstructure_0',['Device_Structure',['../structI2C__Functions_1_1Library__Variable__Structure_1_1Device__Structure.html',1,'I2C_Functions::Library_Variable_Structure']]]
 ];

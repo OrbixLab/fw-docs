@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['wave_0',['Wave',['../classWave.html',1,'']]],
-  ['wavefadeout_1',['WaveFadeOut',['../classWaveFadeOut.html',1,'']]],
-  ['wifi_5forbix_2',['WiFi_Orbix',['../classWiFi__Orbix.html',1,'']]]
+  ['speaker_0',['Speaker',['../classSpeaker.html',1,'']]],
+  ['storage_1',['Storage',['../classStorage.html',1,'']]],
+  ['strongstep_2',['StrongStep',['../classStrongStep.html',1,'']]]
 ];

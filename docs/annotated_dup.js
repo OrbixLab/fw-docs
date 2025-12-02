@@ -50,6 +50,7 @@ var annotated_dup =
     [ "PowerButton", "classPowerButton.html", null ],
     [ "PowerManagment", "classPowerManagment.html", null ],
     [ "PredefinedAnimation", "classPredefinedAnimation.html", null ],
+    [ "Speaker", "classSpeaker.html", null ],
     [ "Storage", "classStorage.html", null ],
     [ "StrongStep", "classStrongStep.html", null ],
     [ "TagScanner", "classTagScanner.html", null ],

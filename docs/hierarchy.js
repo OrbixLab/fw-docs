@@ -14,6 +14,7 @@ var hierarchy =
       [ "PieceScanner", "classPieceScanner.html", null ],
       [ "PowerButton", "classPowerButton.html", null ],
       [ "PowerManagment", "classPowerManagment.html", null ],
+      [ "Speaker", "classSpeaker.html", null ],
       [ "TagScanner", "classTagScanner.html", null ],
       [ "WiFi_Orbix", "classWiFi__Orbix.html", null ]
     ] ],

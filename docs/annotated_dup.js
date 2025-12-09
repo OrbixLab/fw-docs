@@ -1,11 +1,9 @@
 var annotated_dup =
 [
     [ "NODE", null, [
-      [ "NController", "classNODE_1_1NController.html", null ],
       [ "NGameNode", "classNODE_1_1NGameNode.html", "classNODE_1_1NGameNode" ],
       [ "NLEDNode", "classNODE_1_1NLEDNode.html", null ],
       [ "NPieceNode", "classNODE_1_1NPieceNode.html", "classNODE_1_1NPieceNode" ],
-      [ "NPlayerNode", "classNODE_1_1NPlayerNode.html", "classNODE_1_1NPlayerNode" ],
       [ "NScreenNode", "classNODE_1_1NScreenNode.html", "classNODE_1_1NScreenNode" ]
     ] ],
     [ "Adafruit_PN532", "classAdafruit__PN532.html", "classAdafruit__PN532" ],

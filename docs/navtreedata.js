@@ -29,7 +29,6 @@ var NAVTREE =
     [ "Funcionamiento de SyncBoard.", "md_lib_2SyncBoard_2src_2Core_2README.html", null ],
     [ "HardwareSetup", "md_lib_2SyncBoard_2src_2Hardware_2HardwareSetup.html", null ],
     [ "Config", "md_lib_2SyncBoard_2src_2Hardware_2SCREEN_2Config.html", null ],
-    [ "Readme", "md_lib_2SyncBoard_2src_2Nodes_2Controller_2Readme.html", null ],
     [ "NODES", "md_lib_2SyncBoard_2src_2Nodes_2Readme.html", null ],
     [ "Comandos entre la apliacion y el tablero.", "md_lib_2SyncBoard_2src_2Plugins_2AppComunication_2src_2Commands.html", null ],
     [ "SyncBoard Folder Structure", "md_lib_2SyncBoard_2src_2README.html", [
@@ -85,7 +84,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "Adafruit__PN532_8cpp.html",
-"classNoConnectionTest.html"
+"classSpeaker.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
